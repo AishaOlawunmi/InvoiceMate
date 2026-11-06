@@ -1,0 +1,8 @@
+{
+  "name": "InvoiceMate",
+  "description": "Modern invoice, receipt, and payment tracking platform built for Nigerian small businesses, freelancers, and vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
